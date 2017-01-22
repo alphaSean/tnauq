@@ -1,2 +1,1 @@
-# tnauq
-something useful
+# some useful tools for quantitative trading
